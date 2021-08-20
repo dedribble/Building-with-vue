@@ -6,8 +6,9 @@
 }
 
 body {
+    width: 100vh;
     height: 100vh;
-    padding: 30px;
+    padding: 20px;
 }
 
 .container {
